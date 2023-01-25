@@ -5,4 +5,8 @@ class pw
   {
   ////c
   }
+ public void m2()
+ {
+    ///c2
+ }
 }
